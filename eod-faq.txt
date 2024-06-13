@@ -1,0 +1,269 @@
+Why is expense management important?
+
+Expense management is a process for organising and managing company expenses.
+
+1. Increased profitability: A company's profitability can be increased by tracking and controlling expenses to identify and eliminate areas for cost reduction.
+
+2. Compliance and regulations: Business expenses are subject to government regulations, so businesses must track and report them to comply with these regulations. A sound expense management system helps businesses comply with these guidelines.
+
+3. Improved cash flow: It is possible for businesses to manage their cash flow and avoid unexpected shortfalls by having a clear understanding of their expenses.
+
+4. Reduced fraud: It is possible to reduce fraud and theft by implementing a tracking and approving expenses system.
+
+5. Better decision making: Better resource allocation decisions require accurate and timely expense data.
+
+These are a few examples of the importance of expense management. If you haven't incorporated an expense process yet in your company, start with ExpenseOnDemand, we'll guide you along the way to more intelligent, faster and better financial decisions.
+
+
+Is it difficult to transition from an old-fashioned expense process?
+
+At ExpenseOnDemand, we like to keep things simple. While considering the transition from a manual and paper-based expense reporting process, you should learn how simple it is to use the platform.
+
+• Enter your name & email.
+• Use the OTP sent to you to verify your email.
+• Set your password.
+• Enter your Organisation name.
+• Invite three of your colleagues, so that the free trial is meaningful.
+• it takes 30 seconds to setup your free trial.
+
+
+Do I need to download any software for the solution to work?
+
+ExpenseOnDemand is a cloud-based expense management software. To add further efficiency to the expense process, you and your colleagues can download our mobile app, allowing you to submit expenses on the go.
+
+‍iOS download | Android download.
+
+
+Does ExpenseOnDemand connect to accounting tools?
+
+Absolutely. ExpenseOnDemand integrates with popular accounting tools such as Xero, Quickbooks, Tally and Sage.
+‍See all integrations.
+
+
+Is there an expense tracking app available?
+
+Yes, our expense solution is available across iOS and Android if you're looking to use it on mobile and available using your web browser too.
+
+
+Do I still need to keep paper record of expense receipts?
+
+No, you do not. ExpenseOnDemand allows you and your colleagues to scan and upload expense receipts straight to the platform, providing a safe and justified copy is available when reviewing expenses.
+
+This helps with a clutter-free process and a cleaner and greener environment too.
+
+
+How much time does an expense management software save me?
+
+You could save up to 10 hours per employee monthly by simply changing from traditional expense management to a digital system.
+
+
+Can I allocate different permissions to my team?
+
+As the primary account holder on the platform, you can set different permissions for each team member. This gives them all limited control over the tool based on what you allow them to do.
+
+For example, an approver has the ability to say 'yes' or 'no' to expenses., whilst an employee only has the ability to scan and submit expenses.
+
+ExpenseOnDemand offers a lot more control per user. Book a demo to discuss your requirements with our team - we'd love to show you around.
+
+
+Can I set what expenses employees can and cannot claim?
+
+Yes, you can. An expense policy is a document that states what an employee can and cannot claim. For example, you may not want employees to claim and be reimbursed for entertainment-based spending. An expense policy will limit this claim from happening if an employee tries to submit it.
+
+‍To learn more about expense policies, visit our complete guide.
+
+
+Can you create custom meal allowances?
+
+Yes, you can, such as an allowance for breakfast, lunch and dinner, with daily limits for each meal type.
+
+
+How many levels of approver can you have?
+
+In addition to the basic line manager level approval, you can add an additional 5 levels of Counter Approvers, each with their own limit, before it goes to the Finance Approver.
+
+
+What if an approver goes on holiday?
+
+You can setup their deputy, and as soon as the Approver enters their Out Of Office via their mobile, the expense goes to the deputy for approval.  Even here, you can setup any number of deputies.
+
+
+Do all employees need access to ExpenseOnDemand?
+
+Yes, all employees who will use ExpenseOnDemand will need to on the application.  That said, the application handles two types of Claimants, i.e., Power & Casual.  Power users, as the name suggests, are Claimants who make claims daily.  Whereas, Casual users, as the name suggests, only make claims occasionally, say, once every 2 months, etc.
+
+
+Do I need to know engine size in order to claim mileage?
+
+The Finance manager can describe a vehicle in this manner if they so choose.  But for the Claimant it is simple because they have to just select from a pick list.
+
+
+Will the approver receive individual expense notifications or in bulk?
+
+The application is smart, because it sends one notification to the Approver at a pre-determined time for multiple items.
+
+
+Does the ExpenseOnDemand App calculate VAT on mileage?
+
+Yes, if you configure it.  This function complies with the HMRC requirements of capturing a receipt and only claiming back VAT on Business Miles travelled.
+
+
+Can you have more than one legal entity per account?
+
+Yes, you can have any number of entities in one or more countries managed through a single subscription.
+
+
+Does ExpenseOnDemand support multiple currencies?
+
+Yes.
+
+Does ExpenseOnDemand have a function to manage company credit cards?
+
+Yes, the Credit Card function is available for purchase.
+
+
+How can I change / reset my password?
+
+Mobile App: Click Profile icon / Change Password and follow instructions.
+Web App: Click Profile icon / Change Password and follow instructions.
+
+
+Do you have any guided help videos to setup functions?
+
+Web App: Help videos found everywhere where you see the ‘Watch Video’ icon and also in the Chatbot.
+
+
+How do you communicate information for new releases?
+
+Mobile App: New app version info is updated in Profile / About Us.
+Web App: New release info is updated in Support / Version History.
+Website: Check out our  'What's New' webpage.
+
+
+Where can I provide my feedback?
+
+1. Mobile App: Go to Profile / Feedback.
+2. Website: Contact Us.
+3. Web App: Click Profile icon / Support / Feedback & Suggestions.
+
+
+Can my subscription be setup to capture VAT / GST/Sales Tax?
+
+Yes, there is a Tax Setup function.
+After setting up the tax, assign the tax rates to expenses categories. All calculations are automated.
+
+
+Will I require support to setup a subscription for my organisation?
+
+No, we have simple guided videos that will help you to setup each function in minutes.
+
+
+Will I earn commission if I refer a friend to use ExpenseOnDemand?
+
+Yes, you will earn commission.
+Commission is paid to you once your friend registers and becomes a paying customer.
+
+
+What type of business is ExpenseOnDemand suitable for?
+
+It is suitable for all types of businesses that have 4 or more employees claiming expenses.
+
+
+Who can I contact if I have a query?
+
+1. Mobile App: Go to Profile / Feedback
+2. Website: Contact Us
+3. Web App: Click Profile icon / Support / Contact Us
+
+
+Can I delete all test expenses before I start entering ‘real’ expenses?
+
+Yes, to delete all your test transactions, go to Organisation Settings / Delete Test Data.
+
+
+Will my data be private and safe?
+
+Yes it is safe.  We do not store or share your data with third parties.
+
+
+Can I cancel my subscription at any time?
+
+Yes you can.  We hope this won’t be necessary. Should this be the case then you can unsubscribe anytime.
+
+Can I recall my expenses after submitting them for approval?
+
+Yes, any expense can be recalled anytime but only before the approver has opened them.
+
+
+Can I change my currency after setting up my subscription?
+
+Yes, this has to be done by a  Finance Manager.
+Note, this is not possible as soon as an expense has been submitted into the subscription.  
+
+
+Can I add more expense categories?
+
+Yes, using our Expense Category Management function, you can add / edit / deactivate any expense categories.
+
+
+Can I upload multiple receipts to a single expense?
+
+Yes, you can upload multiple receipts for any expense item.
+
+
+Where can I view details for my subscription?
+
+View your subscription details using the web app: Dashboard / Your Invoices / Your Subscription.
+
+
+Can I manage my expenses using tags?
+
+Yes, create new or use existing tags and assign them to your expenses.
+
+
+Can I export expenses in a CSV format?
+
+Yes, you can export your expenses that have been passed for payment in CSV format.
+
+
+What formats can I export my expenses in?
+
+Yes, expenses can be exported in the following formats:
+1. MS Excel
+2. PDF (includes all receipts)
+3. MS CSV
+
+
+Can I forward my emails with receipts attached to the app to create an expense?
+
+Yes, by forwarding your email including the attachments to the email: receipts@expenseondemand.com.
+An instant incomplete expense item will be created for you to later complete and submit.
+
+
+Can I upload my company logo?
+
+Yes, this can be done from Organisation Settings / Logo.
+
+
+How do I change my name?
+
+Contact your Finance Manager to do this.
+
+
+What is Mileage Auto Tracker (GPS)?
+
+This allows you to capture your full journey with a map displaying the route.
+The map will be used as a receipt for your expense claim.
+
+
+Can I export my expenses using the file format of my accounting system?
+
+Yes, by using our function 'Build Your Own Report', you can use it to export all your expenses and then import it into your accounting system’s required format.
+
+
+What receipt formats can I upload to my expense item?
+
+The app accepts
+1. PDF
+2. PNG
+3. JPG
